@@ -21,11 +21,12 @@ System.register(["angular2/platform/browser", "angular2/core"], function(exports
         execute: function() {
             HelloWord = (function () {
                 function HelloWord() {
+                    this.name = 'Jorge';
                 }
                 HelloWord = __decorate([
                     core_1.Component({
                         selector: 'hello-world',
-                        template: '<div>Hello word!</div>'
+                        template: '<div>Hola {{ name }}, desde Angular 2! </div>'
                     }), 
                     __metadata('design:paramtypes', [])
                 ], HelloWord);
