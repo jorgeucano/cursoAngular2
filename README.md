@@ -17,7 +17,7 @@ npm install -g
 -----------------------------------------------------------------------------------------------
 # ¿Porque Estas dependencias? // Why this dependencies ?
 
-chequea mi post sobre esto (link medium)
+chequea mi post sobre esto https://goo.gl/wB2h47
 
 -----------------------------------------------------------------------------------------------
 
